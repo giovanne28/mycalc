@@ -13,7 +13,6 @@ print(f"A soma de {n1} mais {n2} é: {soma}")
 soma
 
 subtracao
->>>>>>> 7fc86e776692704fe2d6ca871734ee5a452fd6f0
 # Solicita dois números do usuário
 num1 = float(input("Digite o primeiro número: "))
 num2 = float(input("Digite o segundo número: "))
